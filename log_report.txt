@@ -1,0 +1,16 @@
+==============================================
+ SYSTEM LOG REPORT
+ Generated : 2026-0908 03:23:00
+ Log file  : sys_log.txt
+==============================================
+Total lines analysed: 32
+Activity by Service
+     14 systemd
+     11 sshd
+      6 kernel
+      2 CRON
+PROBLEM LINES: 16 of 32 (50%)
+TOP 5 SERVICES BY PROBLEM LINES
+      6 systemd
+      6 sshd
+      4 kernel
